@@ -12,6 +12,7 @@
     "@react-native-community/hooks": "^3.0.0",
     "@react-native-community/masked-view": "^0.1.11",
     "expo": "~50.0.6",
+    "expo-constants": "^16.0.2",
     "expo-status-bar": "~1.11.1",
     "react": "18.2.0",
     "react-native": "0.73.4",

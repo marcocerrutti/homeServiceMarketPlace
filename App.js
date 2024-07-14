@@ -1,13 +1,15 @@
 import React from 'react';
-import { StyleSheet, SafeAreaView, Button, Platform, StatusBar, View } from 'react-native';
-import WelcomeScreen from './app/screens/WelcomeScreen';
-import ViewImageScreen from './app/screens/ViewImageScreen';
+import Screen from './app/components/Screen';
+import ListItem from './app/components/ListItem';
+import Icon from './app/components/Icon';
+import AccountScreen from './app/screens/AccountScreen';
+import ListingScreen from './app/screens/ListingScreen';
 
 
 
 function App() {
   return (
-    <ViewImageScreen />
+    <ListingScreen />
   );
 }
 
